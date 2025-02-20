@@ -553,5 +553,25 @@
     "createdBy": "Shreyas-M-246418",
     "createdAt": "2025-02-19T14:20:08.940Z",
     "updatedAt": "2025-02-19T14:20:08.940Z"
+  },
+  {
+    "id": 44,
+    "title": "SDE",
+    "description": "build and maintain software",
+    "companyName": "Ola",
+    "location": "Gurgaon",
+    "domain": "DevOps",
+    "workType": "remote",
+    "employmentType": "part time",
+    "userType": "student",
+    "salaryRange": "90k-100k",
+    "applyLink": "https://www.google.com",
+    "careerLink": "https://www.olacabs.com/careers",
+    "companySummary": " Here is a summary of what working at Ola might be like:\n\nWorking at Ola is like being part of a dynamic and fast-growing team. The company's mission to revolutionize mobility is at the core of what you do, and you'll be working on cutting-edge technology to make a quick impact. As an Ola employee, you'll be part of a team that's passionate about making a difference, and you'll have the opportunity to work on innovative projects that can change the world. The company culture is focused on entrepreneurship, experimentation, and problem-solving, which will help you grow both personally and professionally.\n\nAs an Ola employee, you'll have access to a wide range of benefits, including health insurance, group medical coverage, and financial benefits. You'll also have the opportunity to work on exciting projects that can help you grow both personally and professionally. The company's culture is all about being ambitious, taking risks, and being creative. You'll have the chance to work with talented individuals from all over the world, and you'll be part of a global community that's passionate about making a difference.\n\nOverall, working at Ola is like being part of a dynamic and fast-growing team that's passionate about making a difference. You'll have the opportunity to work on innovative projects, access a wide range of benefits, and be part of a global community that's committed to making a difference. If you're looking for a challenging and rewarding career that will help you grow both personally and professionally, then Ola might be the place for you.",
+    "isSpam": false,
+    "userId": 148254896,
+    "createdBy": "Shreyas-M-246418",
+    "createdAt": "2025-02-20T13:48:08.636Z",
+    "updatedAt": "2025-02-20T13:48:08.636Z"
   }
 ]
