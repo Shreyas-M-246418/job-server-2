@@ -57,7 +57,7 @@ const authenticateToken = (req, res, next) => {
     req.user = user;
     next();
   });
-};
+}; 
 
 
 // Helper function to scrape career page content
