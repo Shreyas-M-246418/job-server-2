@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -554,5 +553,25 @@
     "createdBy": "Shreyas-M-246418",
     "createdAt": "2025-02-19T14:20:08.940Z",
     "updatedAt": "2025-02-19T14:20:08.940Z"
+  },
+  {
+    "id": 44,
+    "title": "Senior Software Engineer-AI",
+    "description": "oin a dynamic team developing and optimising software for Arm’s next-generation application processors. You’ll work with cutting-edge technology—often before public release—on development platforms, software models, FPGAs, and early silicon.\n\nAs a Software Engineer in the IAS Networking team, you will:\n\nDesign, develop, and optimise high-performance networking software on Arm platforms.\nWork closely with internal and external partners to enhance networking stacks.\nContribute to open-source projects by developing, upstreaming, and maintaining code.\nAdapt quickly to different layers of the networking software stack.",
+    "companyName": "Arm",
+    "location": "bangalore",
+    "domain": "DevOps",
+    "workType": "on site",
+    "employmentType": "full time",
+    "userType": "fresher",
+    "salaryRange": "50000-105000",
+    "applyLink": "https://careers.arm.com/job/cambridge/senior-software-engineer-networking-for-ai/33099/77745243376",
+    "careerLink": "https://careers.arm.com/life-at-arm",
+    "companySummary": " This is a job description for a Software Engineer in the IAS Networking team. The job is focused on developing and optimizing software for Arm-based application processors. The role involves working on cutting-edge technology, collaborating with internal and external partners, and contributing to open-source projects. The goal is to design, develop, and optimize high-performance networking software on Arm platforms.\n\nBased on the job description, here is a summary of what working at this company might be like:\n\nWorking at this company is likely to be a challenging and dynamic experience. As a Software Engineer in the IAS Networking team, you will be working on cutting-edge technology, often before it is publicly released. You will be expected to work closely with internal and external partners to enhance networking stacks, and to contribute to open-source projects by developing, upstreaming, and maintaining code. The goal is to design, develop, and optimize high-performance networking software on Arm platforms, which requires a high level of technical expertise and adaptability.\n\nThe work environment is likely to be fast-paced and collaborative, with a focus on innovation and creativity. You will be expected to work closely with colleagues to identify and solve complex problems, and to contribute to the development of new technologies. The company culture is likely to be driven by a passion for innovation and a commitment to excellence, with a focus on continuous learning and improvement.\n\nAs a Software Engineer in the IAS Networking team, you may have opportunities for growth and development, including the possibility of working on new projects, collaborating with external partners, and contributing to the development of new technologies. The company is likely to be committed to investing in its employees, providing opportunities for training and development, and fostering a culture of innovation and creativity.",
+    "isSpam": false,
+    "userId": 105532060,
+    "createdBy": "suk03",
+    "createdAt": "2025-03-09T15:13:35.723Z",
+    "updatedAt": "2025-03-09T15:13:35.723Z"
   }
 ]
